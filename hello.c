@@ -3,6 +3,6 @@
 int
 main (void)
 {
-  printf ("Hello, world!\n");
+  printf ("Hello, world, this is the first commit!\n");
   return 0;
 }
